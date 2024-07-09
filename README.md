@@ -1,4 +1,4 @@
-# Welcom to Aditya Kabra's Home
+# Welcome to Aditya Kabra's Home
 This place is my playground to share my experiments, ideas, projects, and learnings.
 
 Current projects ongoing smoothly:
