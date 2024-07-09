@@ -10,7 +10,7 @@ Past projects:
 2. RoboCall - AI voice call bot for customer care.
 3. Blind Narrator - AI tool for visually challenged to interact with world. 
 
-Some notable organizations I helped co-created:
+Some notable organizations I co-created:
 1. [ZeroPlast Labs](https://www.zeroplastlabs.com/)
 2. [Armor Cares](https://adityakabra47.wixsite.com/armorcare)
 3. [Entrepreneurship and Innovation Cell](https://eiciiserpune.wordpress.com/) - Evolved into [AIC Seed](https://seedforstartup.in/)
