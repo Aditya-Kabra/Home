@@ -12,6 +12,7 @@ Past projects:
 2. RoboCall - AI voice call bot for customer care.
 3. Blind Narrator - AI tool for visually challenged to interact with world.
 4. [Pie & AI:Pune - AI Agents](https://www.eventbrite.com/e/pie-ai-pune-ai-agents-tickets-938380901537) - Event
+5. Teaching at AI Summer Camp for Kids in Manipal (Will share the experience shortly along with the projects created by kids and my learnings)
 
 Some notable organizations I co-created:
 1. [ZeroPlast Labs](https://www.zeroplastlabs.com/)
