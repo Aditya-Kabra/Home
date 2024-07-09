@@ -16,13 +16,14 @@ Past projects:
 (Will share the experience shortly along with the projects created by kids and my learnings - also did an AI Art Auction (Unlocked lots of achievement))
 6. [Visualize your life in weeks](https://makereal.tldraw.link/6HG6RNGE2zDGpmVaoQazk) - tldraw + GPT4
 7. [Breaking balls](https://makereal.tldraw.link/1MQ1eHb4kQ6GNxf-Wme2m) - Game made using tldraw + GPT4
-8. Habit Reminder - experimented by calling 4 people daily to remind them about their habits
+8. Habit Reminder - experimented by calling 4 people daily to remind them about their habits + created a customized chatbot using Openai API
 9. Co-work buddy - left midway - bubble website
 10. [Tinkering Clarity - playlab.ai - platform experimentation](https://www.playlab.ai/project/clxwuiycx02tgwqqw9o1izmru)
 11. Finetuning Stable Diffusion to create portfolio images - left midway
 12. [Personal story guide - custom GPT](https://chatgpt.com/g/g-MjgP22oNZ-personal-story-guide)
 13. Decision making guide using Shane Parrish Framework - custom GPT
 14. Second order thinker - custom GPT
+
 
 
 Some notable organizations I co-created:
