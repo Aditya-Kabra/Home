@@ -13,10 +13,10 @@ Some notable projects that I was part of:
 5. RoboCall - AI voice call bot for customer care.
 6. Blind Narrator - AI tool for visually challenged to interact with world. 
 
-Education:
-1. [IISER Pune](https://www.iiserpune.ac.in/) - BS and MS
-2. [altMBA](https://altmba.com/)
-
 Talks
 1. [My Journey of 10 years](https://www.youtube.com/live/rHtG5lr45Js?si=xI0bNMh399q5q11C&t=4639) - A talk given at recent IISER Alumni Meet
 2. [My Story of Failure and Hope](https://vimeo.com/801135649) - My first recorded video :)
+
+Education:
+1. [IISER Pune](https://www.iiserpune.ac.in/) - BS and MS
+2. [altMBA](https://altmba.com/)
