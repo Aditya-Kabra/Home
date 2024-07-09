@@ -9,15 +9,15 @@ Current projects:
 
 Past projects:
 1. [Patents Claim Summarization](https://huggingface.co/spaces/adityakabra/Patent-AI-V1) - My first AI project created using OpenAI API and Gradio and hosted on Hugging Face
-2. RoboCall - AI voice call bot for customer care.
-3. Blind Narrator - AI tool for visually challenged to interact with world.
+2. RoboCall - AI voice call bot for customer care - Completed a small prototype
+3. Blind Narrator - AI tool for visually challenged to interact with world - left midway - error in code - flutterflow app
 4. [Pie & AI:Pune - AI Agents](https://www.eventbrite.com/e/pie-ai-pune-ai-agents-tickets-938380901537) - Event
 5. Teaching AI at a kids summer camp in Manipal 
 (Will share the experience shortly along with the projects created by kids and my learnings - also did an AI Art Auction (Unlocked lots of achievement))
 6. [Visualize your life in weeks](https://makereal.tldraw.link/6HG6RNGE2zDGpmVaoQazk) - tldraw + GPT4
 7. [Breaking balls](https://makereal.tldraw.link/1MQ1eHb4kQ6GNxf-Wme2m) - Game made using tldraw + GPT4
-8. Habit Reminder
-9. Co-work buddy
+8. Habit Reminder - experimented by calling 4 people daily to remind them about their habits
+9. Co-work buddy - left midway - bubble website
 
 Some notable organizations I co-created:
 1. [ZeroPlast Labs](https://www.zeroplastlabs.com/)
