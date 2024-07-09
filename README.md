@@ -10,7 +10,8 @@ Current projects:
 Past projects:
 1. [Patents Claim Summarization](https://huggingface.co/spaces/adityakabra/Patent-AI-V1) - My first AI project created using OpenAI API and Gradio and hosted on Hugging Face
 2. RoboCall - AI voice call bot for customer care.
-3. Blind Narrator - AI tool for visually challenged to interact with world. 
+3. Blind Narrator - AI tool for visually challenged to interact with world.
+4. [Pie & AI:Pune - AI Agents](https://www.eventbrite.com/e/pie-ai-pune-ai-agents-tickets-938380901537)
 
 Some notable organizations I co-created:
 1. [ZeroPlast Labs](https://www.zeroplastlabs.com/)
