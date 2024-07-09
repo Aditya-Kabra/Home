@@ -1,28 +1,6 @@
 # Home
 This is my playground to share my experiments, ideas, projects, and learnings.
 
-<details>
-  <summary style="color:blue; text-decoration:underline; cursor:pointer;">About me</summary>
-  <ul>
-    <details>
-      <summary style="color:blue; text-decoration:underline; cursor:pointer;">Past</summary>
-      <ul>
-        <li>Research Scientist by training - 5 years of IISER Pune</li>
-        <li>Entrepreneur at heart - Started ZeroPlast Labs, Armor Cares, and Entrepreneurship and Innovation Cell</li>
-        <li>Builder by profession - I love to build and create projects.</li>
-      </ul>
-    </details>
-    <details>
-      <summary style="color:blue; text-decoration:underline; cursor:pointer;">Present</summary>
-      <ul>
-        <li>Currently, I am deep diving into the AI world (Generative AI - LLMs, Multimodals, etc.; Deep learning and Machine Learning).</li>
-        <li>I am learning through online courses, building projects, experimenting with models and developing curated learning materials for kids and teachers.</li>
-        <li>I am also working on building a community in Pune of passionate AI Hackers by organizing talks, workshops, and project showcases.</li>
-        <li>Also trying to learn how to structure my learning - part of Reinventing Education Cohort.</li>
-      </ul>
-    </details>
-</details>
-
 Current projects ongoing smoothly:
 1. [Play and Learn AI](https://aditya-kabra.github.io/PLAI/)
 2. [All about RAGs](https://lu.ma/fadg2fpa) - Event
