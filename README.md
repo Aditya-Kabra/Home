@@ -18,6 +18,12 @@ Past projects:
 7. [Breaking balls](https://makereal.tldraw.link/1MQ1eHb4kQ6GNxf-Wme2m) - Game made using tldraw + GPT4
 8. Habit Reminder - experimented by calling 4 people daily to remind them about their habits
 9. Co-work buddy - left midway - bubble website
+10. [Tinkering Clarity - playlab.ai - platform experimentation](https://www.playlab.ai/project/clxwuiycx02tgwqqw9o1izmru)
+11. Finetuning Stable Diffusion to create portfolio images - left midway
+12. [Personal story guide - custom GPT](https://chatgpt.com/g/g-MjgP22oNZ-personal-story-guide)
+13. Decision making guide using Shane Parrish Framework - custom GPT
+14. Second order thinker - custom GPT
+
 
 Some notable organizations I co-created:
 1. [ZeroPlast Labs](https://www.zeroplastlabs.com/)
