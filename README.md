@@ -6,6 +6,7 @@ Current projects ongoing smoothly:
 2. [All about RAGs](https://lu.ma/fadg2fpa) - Event
 
 Need to push:
+
 4. Learning RAG and Agentic Framework from scratch + building Journal Bot
 5. First blog on AI for Begineers (Work in Progress)
 6. Blog on teaching AI at a kids summer camp in Manipal 
