@@ -2,7 +2,8 @@
 This is my playground to run little experiments and share my ideas, projects, and learnings.
 
 Current projects:
-1. [Play and Learn AI](https://github.com/Aditya-Kabra/PLAI)
+1. [Play and Learn AI](https://aditya-kabra.github.io/PLAI/)
+2. 
 
 Some notable projects that I was part of:
 1. [ZeroPlast Labs](https://www.zeroplastlabs.com/)
