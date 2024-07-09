@@ -2,7 +2,7 @@
 This is my playground to share my experiments, ideas, projects, and learnings.
 
 About me:
-I am a Scientist, Entrepreneur and Builder. Currently, I am deepdiving into AI world. I am learning, building projects, experimenting with Generative AI, Deeplearning and Machine Learning models and also developing curated learning materials for kids and teachers.
+I am a Scientist, Entrepreneur and Builder. Currently, I am deepdiving into AI world (Generative AI - LLMs, Multimodals, etc.; Deeplearning and Machine Learning). I am learning, building projects, experimenting with models and developing curated learning materials for kids and teachers.
 
 Contact: adityakabra47@gmail.com
 
