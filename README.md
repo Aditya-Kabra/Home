@@ -21,7 +21,7 @@ Past projects:
 10. [Tinkering Clarity - playlab.ai - platform experimentation](https://www.playlab.ai/project/clxwuiycx02tgwqqw9o1izmru)
 11. Finetuning Stable Diffusion to create portfolio images - left midway
 12.  Custom GPTs
-- Personal story guide - custom GPT](https://chatgpt.com/g/g-MjgP22oNZ-personal-story-guide)
+- [Personal story guide - custom GPT](https://chatgpt.com/g/g-MjgP22oNZ-personal-story-guide)
 - Decision making guide using Shane Parrish Framework - custom GPT
 - Second order thinker - custom GPT
 
