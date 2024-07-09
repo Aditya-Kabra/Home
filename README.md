@@ -17,9 +17,10 @@ Some notable organizations I co-created:
 2. [Armor Cares](https://adityakabra47.wixsite.com/armorcare)
 3. [Entrepreneurship and Innovation Cell](https://eiciiserpune.wordpress.com/) - Evolved into [AIC Seed](https://seedforstartup.in/)
 
-Talks I gave
+PR: Talks and Articles
 1. [My Journey of 10 years](https://www.youtube.com/live/rHtG5lr45Js?si=xI0bNMh399q5q11C&t=4639) - At IISER Alumni Meet
 2. [My Story of Failure and Hope](https://vimeo.com/801135649) - My first recorded video :)
+3. [IISc Bangalore's Connect magazine](https://connect.iisc.ac.in/2024/06/plastic-plastic-everywhere/) - covering ZeroPlast's Labs reasons for closure + my POV on BioPlastics
 
 Education:
 1. [IISER Pune](https://www.iiserpune.ac.in/) - BS and MS
