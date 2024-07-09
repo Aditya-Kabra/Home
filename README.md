@@ -20,9 +20,10 @@ Past projects:
 9. Co-work buddy - left midway - bubble website
 10. [Tinkering Clarity - playlab.ai - platform experimentation](https://www.playlab.ai/project/clxwuiycx02tgwqqw9o1izmru)
 11. Finetuning Stable Diffusion to create portfolio images - left midway
-12. [Personal story guide - custom GPT](https://chatgpt.com/g/g-MjgP22oNZ-personal-story-guide)
-13. Decision making guide using Shane Parrish Framework - custom GPT
-14. Second order thinker - custom GPT
+12.  Custom GPTs
+- Personal story guide - custom GPT](https://chatgpt.com/g/g-MjgP22oNZ-personal-story-guide)
+- Decision making guide using Shane Parrish Framework - custom GPT
+- Second order thinker - custom GPT
 
 
 
