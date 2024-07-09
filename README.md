@@ -2,17 +2,25 @@
 This is my playground to share my experiments, ideas, projects, and learnings.
 
 <details>
-  <summary>About me (Click to Expand)</summary>
+  <summary style="color:blue; text-decoration:underline; cursor:pointer;">About me</summary>
   <ul>
-    <li>Research Scientist by training - 5 years of IISER Pune</li>
-    <li>Entrepreneur at heart - Started ZeroPlast Labs, Armor Cares, and Entrepreneurship and Innovation Cell</li>
-    <li>Builder by profession - I love to build and create projects.</li>
-    <li>Currently, I am deep diving into the AI world (Generative AI - LLMs, Multimodals, etc.; Deep learning and Machine Learning).</li>
-    <li>I am learning through online courses, building projects, experimenting with models and developing curated learning materials for kids and teachers.</li>
-    <li>I am also working on building a community in Pune of passionate AI Hackers by organizing talks, workshops, and project showcases.</li>
-    <li>Also trying to understand how to structure my learning - part of Reinventing Education Cohort.</li>
-  </ul>
-  <p>Contact: adityakabra47@gmail.com</p>
+    <details>
+      <summary style="color:blue; text-decoration:underline; cursor:pointer;">Past</summary>
+      <ul>
+        <li>Research Scientist by training - 5 years of IISER Pune</li>
+        <li>Entrepreneur at heart - Started ZeroPlast Labs, Armor Cares, and Entrepreneurship and Innovation Cell</li>
+        <li>Builder by profession - I love to build and create projects.</li>
+      </ul>
+    </details>
+    <details>
+      <summary style="color:blue; text-decoration:underline; cursor:pointer;">Present</summary>
+      <ul>
+        <li>Currently, I am deep diving into the AI world (Generative AI - LLMs, Multimodals, etc.; Deep learning and Machine Learning).</li>
+        <li>I am learning through online courses, building projects, experimenting with models and developing curated learning materials for kids and teachers.</li>
+        <li>I am also working on building a community in Pune of passionate AI Hackers by organizing talks, workshops, and project showcases.</li>
+        <li>Also trying to learn how to structure my learning - part of Reinventing Education Cohort.</li>
+      </ul>
+    </details>
 </details>
 
 Current projects ongoing smoothly:
@@ -55,3 +63,5 @@ Past projects:
 - [Personal story guide - custom GPT](https://chatgpt.com/g/g-MjgP22oNZ-personal-story-guide)
 - Decision making guide using Shane Parrish Framework - custom GPT
 - Second order thinker - custom GPT
+
+Contact: adityakabra47@gmail.com
