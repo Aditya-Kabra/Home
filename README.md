@@ -4,7 +4,7 @@ This is my playground to share my experiments, ideas, projects, and learnings.
 Current projects:
 1. [Play and Learn AI](https://aditya-kabra.github.io/PLAI/)
 2. First blog on AI for Begineers (Work in Progress)
-3. Learning RAG
+3. Learning RAG and Agentic Framework from scratch
 4. [All about RAGs](https://lu.ma/fadg2fpa) - Event
 
 Past projects:
