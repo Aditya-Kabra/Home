@@ -16,6 +16,8 @@ Past projects:
 (Will share the experience shortly along with the projects created by kids and my learnings - also did an AI Art Auction (Unlocked lots of achievement))
 6. [Visualize your life in weeks](https://makereal.tldraw.link/6HG6RNGE2zDGpmVaoQazk) - tldraw + GPT4
 7. [Breaking balls](https://makereal.tldraw.link/1MQ1eHb4kQ6GNxf-Wme2m) - Game made using tldraw + GPT4
+8. Habit Reminder
+9. Co-work buddy
 
 Some notable organizations I co-created:
 1. [ZeroPlast Labs](https://www.zeroplastlabs.com/)
