@@ -28,12 +28,11 @@ Current projects ongoing smoothly:
 2. [All about RAGs](https://lu.ma/fadg2fpa) - Event
 
 Need to push:
-
-4. Learning RAG and Agentic Framework from scratch + building Journal Bot
-5. First blog on AI for Begineers (Work in Progress)
-6. Blog on teaching AI at a kids summer camp in Manipal 
+1. Learning RAG and Agentic Framework from scratch + building Journal Bot
+2. First blog on AI for Begineers (Work in Progress)
+3. Blog on teaching AI at a kids summer camp in Manipal 
 (Will share the experience shortly along with the projects created by kids and my learnings - also did an AI Art Auction (Unlocked lots of achievement))
-7. Fast.ai - Chapter 1 to 4 tutorials
+4. Fast.ai - Chapter 1 to 4 tutorials
 
 Some notable organizations I co-created:
 1. [ZeroPlast Labs](https://www.zeroplastlabs.com/)
