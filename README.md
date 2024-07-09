@@ -6,7 +6,7 @@ About me:
 - Entrepreneur at heart - Started ZeroPlast Labs, Armor Cares, and Entrepreneurship and Innovation Cell
 - Builder by profession - I love to build and create projects.  
 - Currently, I am deepdiving into AI world (Generative AI - LLMs, Multimodals, etc.; Deeplearning and Machine Learning). 
-- I am learning, building projects, experimenting with models and developing curated learning materials for kids and teachers.
+- I am learning through online courses, building projects, experimenting with models and developing curated learning materials for kids and teachers.
 - I am also working on building a community in Pune of passionate AI Hackers by organizing talks, workshops and project showcases.
 - Also trying to understand how to structure my learning - part of Reinventing Education Cohort.
 
