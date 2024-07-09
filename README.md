@@ -3,7 +3,7 @@ This place is my playground to share my experiments, ideas, projects, and learni
 
 Where am I putting in my time and energy?
 - AI - developing technical skills, building projects, teaching material and community
-- Education - Learning how to structure my and other's learning 
+- Education - Learning how to structure learning 
 
 Current projects ongoing smoothly:
 1. [Play and Learn AI](https://aditya-kabra.github.io/PLAI/)
