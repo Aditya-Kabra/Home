@@ -5,13 +5,13 @@ Current projects:
 1. [Play and Learn AI](https://aditya-kabra.github.io/PLAI/)
 2. First blog on AI for Begineers (Work in Progress)
 3. Learning RAG
-4. [All about RAGs - Event](https://lu.ma/fadg2fpa)
+4. [All about RAGs](https://lu.ma/fadg2fpa) - Event
 
 Past projects:
 1. [Patents Claim Summarization](https://huggingface.co/spaces/adityakabra/Patent-AI-V1) - My first AI project created using OpenAI API and Gradio and hosted on Hugging Face
 2. RoboCall - AI voice call bot for customer care.
 3. Blind Narrator - AI tool for visually challenged to interact with world.
-4. [Pie & AI:Pune - AI Agents](https://www.eventbrite.com/e/pie-ai-pune-ai-agents-tickets-938380901537)
+4. [Pie & AI:Pune - AI Agents](https://www.eventbrite.com/e/pie-ai-pune-ai-agents-tickets-938380901537) - Event
 
 Some notable organizations I co-created:
 1. [ZeroPlast Labs](https://www.zeroplastlabs.com/)
