@@ -1,5 +1,5 @@
-# Home
-This is my playground to share my experiments, ideas, projects, and learnings.
+# Welcom to Aditya Kabra's Home
+This place is my playground to share my experiments, ideas, projects, and learnings.
 
 Current projects ongoing smoothly:
 1. [Play and Learn AI](https://aditya-kabra.github.io/PLAI/)
