@@ -1,16 +1,19 @@
 # Home
 This is my playground to share my experiments, ideas, projects, and learnings.
 
-About me:
-- Research Scientist by training - 5 years of IISER Pune
-- Entrepreneur at heart - Started ZeroPlast Labs, Armor Cares, and Entrepreneurship and Innovation Cell
-- Builder by profession - I love to build and create projects.  
-- Currently, I am deepdiving into AI world (Generative AI - LLMs, Multimodals, etc.; Deeplearning and Machine Learning). 
-- I am learning through online courses, building projects, experimenting with models and developing curated learning materials for kids and teachers.
-- I am also working on building a community in Pune of passionate AI Hackers by organizing talks, workshops and project showcases.
-- Also trying to understand how to structure my learning - part of Reinventing Education Cohort.
-
-Contact: adityakabra47@gmail.com
+<details>
+  <summary>About me (Click to Expand)</summary>
+  <ul>
+    <li>Research Scientist by training - 5 years of IISER Pune</li>
+    <li>Entrepreneur at heart - Started ZeroPlast Labs, Armor Cares, and Entrepreneurship and Innovation Cell</li>
+    <li>Builder by profession - I love to build and create projects.</li>
+    <li>Currently, I am deep diving into the AI world (Generative AI - LLMs, Multimodals, etc.; Deep learning and Machine Learning).</li>
+    <li>I am learning through online courses, building projects, experimenting with models and developing curated learning materials for kids and teachers.</li>
+    <li>I am also working on building a community in Pune of passionate AI Hackers by organizing talks, workshops, and project showcases.</li>
+    <li>Also trying to understand how to structure my learning - part of Reinventing Education Cohort.</li>
+  </ul>
+  <p>Contact: adityakabra47@gmail.com</p>
+</details>
 
 Current projects ongoing smoothly:
 1. [Play and Learn AI](https://aditya-kabra.github.io/PLAI/)
