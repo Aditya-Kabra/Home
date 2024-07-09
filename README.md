@@ -1,13 +1,16 @@
 # Home
 This is my playground to share my experiments, ideas, projects, and learnings.
 
-Current projects:
+Current projects ongoing smoothly:
 1. [Play and Learn AI](https://aditya-kabra.github.io/PLAI/)
 2. [All about RAGs](https://lu.ma/fadg2fpa) - Event
-3. Learning RAG and Agentic Framework from scratch + building Journal Bot
-4. First blog on AI for Begineers (Work in Progress)
-5. Blog on teaching AI at a kids summer camp in Manipal 
+
+Need to push:
+4. Learning RAG and Agentic Framework from scratch + building Journal Bot
+5. First blog on AI for Begineers (Work in Progress)
+6. Blog on teaching AI at a kids summer camp in Manipal 
 (Will share the experience shortly along with the projects created by kids and my learnings - also did an AI Art Auction (Unlocked lots of achievement))
+7. Fast.ai - Chapter 1 to 4 tutorials
 
 Some notable organizations I co-created:
 1. [ZeroPlast Labs](https://www.zeroplastlabs.com/)
