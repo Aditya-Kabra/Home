@@ -5,13 +5,10 @@ Where am I putting in my time and energy?
 - AI - developing technical skills, building projects, teaching material and community
 - Education - Learning how to structure learning 
 
-Current projects ongoing smoothly:
+Current projects:
 1. [Play and Learn AI](https://aditya-kabra.github.io/PLAI/)
 2. [All about RAGs](https://lu.ma/fadg2fpa) - Event
 
-Need to push:
-1. Learn RAG and create Journal Bot
-2. First blog on AI for Begineers (Work in Progress)
 
 Some notable organizations I co-created:
 1. [ZeroPlast Labs](https://www.zeroplastlabs.com/)
